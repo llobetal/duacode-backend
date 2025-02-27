@@ -1,0 +1,15 @@
+{
+    "type": "mysql",
+    "host": "localhost",
+    "port": 3306,
+    "username": "admin",
+    "password": "admin",
+    "database": "duacode_db",
+    "entities": ["src/**/*.entity{.ts,.js}"],
+    "migrations": ["src/migrations/*.ts"],
+    "cli": {
+      "migrationsDir": "src/migrations"
+    },
+    "synchronize": false
+  }
+  
