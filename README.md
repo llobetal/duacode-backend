@@ -16,7 +16,7 @@ Clonar el proyecto
 
 Primero, clona el repositorio de GitHub en tu máquina local:
 
-git clone https://github.com/tu-usuario/duacode-backend.git
+git clone https://github.com/llobetal/duacode-backend.git
 
 Instalar dependencias
 
